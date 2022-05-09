@@ -3,3 +3,5 @@ used to extract transform datafrom rds to snowflake via s3.
 
 
 create pyspark code in order to extract data from rds
+
+done data in s3
