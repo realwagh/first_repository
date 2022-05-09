@@ -1,0 +1,2 @@
+This is snowflake project
+used to extract transform datafrom rds to snowflake via s3.
